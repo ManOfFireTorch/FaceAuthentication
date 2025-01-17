@@ -1,8 +1,8 @@
-tensorflow>=2.10.0
+tensorflow==2.5.0
 retinaface==1.1.1
 opencv-python-headless==4.6.0.66
 numpy==1.21.6
-Pillow
+
 torch==1.9.1
 torchvision==0.10.1
 facenet-pytorch==2.5.2
